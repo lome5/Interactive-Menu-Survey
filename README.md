@@ -2,8 +2,7 @@
 
 Hii💖 This is a simple survey I made for practice and learning✨
 
-🔗 Check it out here: Interactive Menu Survey
-
+🔗 Check it out here:lome5/Interactive-Menu-Survey
 💌 What’s Inside?
 	A name input field.
 	A section to select the number of social media accounts.
